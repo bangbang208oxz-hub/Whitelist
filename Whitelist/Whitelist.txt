@@ -93,6 +93,6 @@
     "gender": "หญิง",
     "roblox": "Netnapa_CJ",
     "mic": "ไม่มี",
-    "nickname": "Mindmint Lissy • [mindmint._.]"
+    "nickname": "Mindmint Lissy • [Mindmint Lissy"
   }
 }
