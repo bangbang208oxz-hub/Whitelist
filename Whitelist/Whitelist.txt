@@ -45,6 +45,6 @@
     "gender": "ชาย",
     "roblox": "Uronix33081",
     "mic": "มี",
-    "nickname": "Panyagon Nueangjakchim • [brihgu"
+    "nickname": "Panyagon Nueangjakchim • [Panyag"
   }
 }
