@@ -86,5 +86,13 @@
     "roblox": "sila_gggjy",
     "mic": "มี",
     "nickname": "Sila  Black • [ggg093354]"
+  },
+  "874257078208843816": {
+    "name_ic": "Mindmint Lissy",
+    "age": "19",
+    "gender": "หญิง",
+    "roblox": "Netnapa_CJ",
+    "mic": "ไม่มี",
+    "nickname": "Mindmint Lissy • [mindmint._.]"
   }
 }
