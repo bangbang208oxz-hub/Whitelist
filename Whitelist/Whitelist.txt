@@ -1,2 +1,10 @@
 {
+  "123456789": {
+    "name_ic": "TestUser",
+    "age": "20",
+    "gender": "ชาย",
+    "roblox": "TestRoblox",
+    "mic": "มี",
+    "nickname": "TestUser • [Original]"
+  }
 }
