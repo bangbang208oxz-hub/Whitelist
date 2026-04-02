@@ -54,5 +54,13 @@
     "roblox": "Arm2555000",
     "mic": "มี",
     "nickname": "Arm Replay • [matach_plypul]"
+  },
+  "1477213730365505661": {
+    "name_ic": "SKY ROCKKET",
+    "age": "19",
+    "gender": "หญิง",
+    "roblox": "THANYAWIIKRAI",
+    "mic": "มี",
+    "nickname": "SKY ROCKKET • [thanyawiikra]"
   }
 }
