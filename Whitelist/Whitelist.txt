@@ -118,5 +118,13 @@
     "roblox": "rove12388",
     "mic": "มี",
     "nickname": "Fried pork • [fdgokdflgk_]"
+  },
+  "1046416292472696912": {
+    "name_ic": "Leen Del",
+    "age": "16",
+    "gender": "Male",
+    "roblox": "Tonysnowmy",
+    "mic": "มี",
+    "nickname": "Leen Del • [bab3ie_c56]"
   }
 }
