@@ -110,5 +110,13 @@
     "roblox": "0_0ppoouu",
     "mic": "มี",
     "nickname": "Melo     Bluebell • [mkkk_204]"
+  },
+  "1366071394445688842": {
+    "name_ic": "Fried pork",
+    "age": "14",
+    "gender": "ชาย",
+    "roblox": "rove12388",
+    "mic": "มี",
+    "nickname": "Fried pork • [fdgokdflgk_]"
   }
 }
