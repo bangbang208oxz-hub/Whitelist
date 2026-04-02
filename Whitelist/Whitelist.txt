@@ -1,18 +1,2 @@
 {
-  "123456789": {
-    "name_ic": "TestUser",
-    "age": "20",
-    "gender": "ชาย",
-    "roblox": "TestRoblox",
-    "mic": "มี",
-    "nickname": "TestUser • [Original]"
-  },
-  "1473994663957364779": {
-    "name_ic": "4khirx",
-    "age": "16",
-    "gender": "ชาย",
-    "roblox": "4khirx",
-    "mic": "มี",
-    "nickname": "4khirx • [4khirx • [Morgan_yy • "
-  }
 }
