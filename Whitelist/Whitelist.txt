@@ -62,5 +62,13 @@
     "roblox": "THANYAWIIKRAI",
     "mic": "มี",
     "nickname": "SKY ROCKKET • [thanyawiikra]"
+  },
+  "1295375454001172481": {
+    "name_ic": "Ryu ChickenHunte",
+    "age": "21",
+    "gender": "ชาย",
+    "roblox": "Kulmflail2981",
+    "mic": "มี",
+    "nickname": "Ryu ChickenHunte • [p_7456]"
   }
 }
