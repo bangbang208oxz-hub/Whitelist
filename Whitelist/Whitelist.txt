@@ -70,5 +70,13 @@
     "roblox": "Kulmflail2981",
     "mic": "มี",
     "nickname": "Ryu ChickenHunte • [p_7456]"
+  },
+  "1437785040036691968": {
+    "name_ic": "Noonsh heghs",
+    "age": "17",
+    "gender": "ชาย",
+    "roblox": "QUlT_334",
+    "mic": "มี",
+    "nickname": "Noonsh heghs • [snuk0095]"
   }
 }
