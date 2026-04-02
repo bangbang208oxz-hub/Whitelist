@@ -30,5 +30,13 @@
     "roblox": "For453534",
     "mic": "ไม่มี",
     "nickname": "Edward  Acedemy • [fcbarcelona41"
+  },
+  "915106968228741152": {
+    "name_ic": "Blue beelte",
+    "age": "17",
+    "gender": "ชาย",
+    "roblox": "White_roseter",
+    "mic": "มี",
+    "nickname": "Blue beelte • [beeonilopop]"
   }
 }
