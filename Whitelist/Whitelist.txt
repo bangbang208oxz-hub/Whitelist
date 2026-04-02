@@ -14,5 +14,13 @@
     "roblox": "4khirx",
     "mic": "มี",
     "nickname": "4khirx • [4khirx • [Morgan_yy • "
+  },
+  "1392877970028232765": {
+    "name_ic": "Soda Natsumi",
+    "age": "16",
+    "gender": "หญิง",
+    "roblox": "DzZone_453061",
+    "mic": "มี",
+    "nickname": "Soda Natsumi • [soda190253]"
   }
 }
