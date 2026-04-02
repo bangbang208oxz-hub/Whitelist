@@ -22,5 +22,13 @@
     "roblox": "DzZone_453061",
     "mic": "มี",
     "nickname": "Soda Natsumi • [soda190253]"
+  },
+  "1032085684627980391": {
+    "name_ic": "Edward  Acedemy",
+    "age": "20",
+    "gender": "ชาย",
+    "roblox": "For453534",
+    "mic": "ไม่มี",
+    "nickname": "Edward  Acedemy • [fcbarcelona41"
   }
 }
