@@ -94,5 +94,13 @@
     "roblox": "Netnapa_CJ",
     "mic": "ไม่มี",
     "nickname": "Mindmint Lissy • [Mindmint Lissy"
+  },
+  "903277263196418128": {
+    "name_ic": "Katie Elf",
+    "age": "19",
+    "gender": "หญิง",
+    "roblox": "KT_KT140150",
+    "mic": "มี",
+    "nickname": "Katie Elf • [kt_kt140150]"
   }
 }
