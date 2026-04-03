@@ -174,5 +174,13 @@
     "roblox": "vestiblaha",
     "mic": "มี",
     "nickname": "jaobao mix • [bangkai_1]"
+  },
+  "1400492558651494501": {
+    "name_ic": "Mackey Romanov",
+    "age": "26",
+    "gender": "ชาย",
+    "roblox": "Bamboo_H4On",
+    "mic": "มี",
+    "nickname": "Mackey Romanov • [Maxkiy Romanov"
   }
 }
