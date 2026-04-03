@@ -134,5 +134,13 @@
     "roblox": "NORI_NARI9",
     "mic": "มี",
     "nickname": "NORI NARI • [morin_nori8]"
+  },
+  "1318177737835417641": {
+    "name_ic": "Perlene Perjer",
+    "age": "16",
+    "gender": "หญิง",
+    "roblox": "coonkon",
+    "mic": "มี",
+    "nickname": "Perlene Perjer • [kxemmii.__]"
   }
 }
