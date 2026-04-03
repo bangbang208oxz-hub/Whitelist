@@ -142,5 +142,13 @@
     "roblox": "coonkon",
     "mic": "มี",
     "nickname": "Perlene Perjer • [kxemmii.__]"
+  },
+  "1002859941457043506": {
+    "name_ic": "Jayporch Beelzebub",
+    "age": "18",
+    "gender": "ชาย",
+    "roblox": "mos1987",
+    "mic": "มี",
+    "nickname": "Jayporch Beelzebub • [porch.neve"
   }
 }
