@@ -158,5 +158,13 @@
     "roblox": "nqeoxibps",
     "mic": "มี",
     "nickname": "Latte Valen • [kuu0537]"
+  },
+  "1438021138197381203": {
+    "name_ic": "Namphet acedemy",
+    "age": "16",
+    "gender": "หญิง",
+    "roblox": "M_FHYU",
+    "mic": "มี",
+    "nickname": "Namphet acedemy • [สำรองน้ำเพชร]"
   }
 }
