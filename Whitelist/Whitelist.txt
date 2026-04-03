@@ -126,5 +126,13 @@
     "roblox": "Tonysnowmy",
     "mic": "มี",
     "nickname": "Leen Del • [bab3ie_c56]"
+  },
+  "1407225278924591165": {
+    "name_ic": "NORI NARI",
+    "age": "20",
+    "gender": "หญิง",
+    "roblox": "NORI_NARI9",
+    "mic": "มี",
+    "nickname": "NORI NARI • [morin_nori8]"
   }
 }
