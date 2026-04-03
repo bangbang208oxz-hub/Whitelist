@@ -150,5 +150,13 @@
     "roblox": "mos1987",
     "mic": "มี",
     "nickname": "Jayporch Beelzebub • [porch.neve"
+  },
+  "1090506285268611085": {
+    "name_ic": "Latte Valen",
+    "age": "15",
+    "gender": "ชาย",
+    "roblox": "nqeoxibps",
+    "mic": "มี",
+    "nickname": "Latte Valen • [kuu0537]"
   }
 }
