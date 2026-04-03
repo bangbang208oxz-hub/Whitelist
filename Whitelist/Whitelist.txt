@@ -182,5 +182,13 @@
     "roblox": "Bamboo_H4On",
     "mic": "มี",
     "nickname": "Mackey Romanov • [Maxkiy Romanov"
+  },
+  "1487330652784169022": {
+    "name_ic": "Nine Power",
+    "age": "14",
+    "gender": "ชาย",
+    "roblox": "SiBYLP11",
+    "mic": "มี",
+    "nickname": "Nine Power • [powe11r0304]"
   }
 }
