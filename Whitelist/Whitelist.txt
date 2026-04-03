@@ -166,5 +166,13 @@
     "roblox": "M_FHYU",
     "mic": "มี",
     "nickname": "Namphet acedemy • [สำรองน้ำเพชร]"
+  },
+  "1359809370015142021": {
+    "name_ic": "jaobao mix",
+    "age": "14",
+    "gender": "ชาย",
+    "roblox": "vestiblaha",
+    "mic": "มี",
+    "nickname": "jaobao mix • [bangkai_1]"
   }
 }
