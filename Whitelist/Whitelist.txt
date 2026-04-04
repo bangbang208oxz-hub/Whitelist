@@ -190,5 +190,13 @@
     "roblox": "SiBYLP11",
     "mic": "มี",
     "nickname": "Nine Power • [powe11r0304]"
+  },
+  "1127538234260463736": {
+    "name_ic": "Zuko",
+    "age": "18",
+    "gender": "ชาย",
+    "roblox": "HyperDbeta",
+    "mic": "มี",
+    "nickname": "Zuko • [zukowtf_]"
   }
 }
