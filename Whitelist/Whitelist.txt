@@ -238,5 +238,13 @@
     "roblox": "Xxiiayezxx",
     "mic": "มี",
     "nickname": "Sherine Sniper • [callme_.iris]"
+  },
+  "1132569312503279636": {
+    "name_ic": "Mankeaw Daimod",
+    "age": "15",
+    "gender": "ชาย",
+    "roblox": "SND_MG",
+    "mic": "มี",
+    "nickname": "Mankeaw Daimod • [noskung]"
   }
 }
