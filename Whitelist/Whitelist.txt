@@ -199,14 +199,6 @@
     "mic": "มี",
     "nickname": "Garin outlaw • [tutoring_636]"
   },
-  "1473994663957364779": {
-    "name_ic": "youppqydh",
-    "age": "16",
-    "gender": "ชาย",
-    "roblox": "youppqydh",
-    "mic": "ไม่มี",
-    "nickname": "youppqydh • [youppqydh • [youppq"
-  },
   "992077637046517814": {
     "name_ic": "DEEDO",
     "age": "25",
