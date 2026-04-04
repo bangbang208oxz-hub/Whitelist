@@ -205,6 +205,6 @@
     "gender": "ชาย",
     "roblox": "PCX_1698",
     "mic": "มี",
-    "nickname": "King John • [put05954]"
+    "nickname": "King John • [King John • [put059"
   }
 }
