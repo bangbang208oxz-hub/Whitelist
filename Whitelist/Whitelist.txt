@@ -198,5 +198,13 @@
     "roblox": "ICE10_02",
     "mic": "มี",
     "nickname": "Wisper Sanji • [Wisper Sanji • ["
+  },
+  "1445421620620431522": {
+    "name_ic": "King John",
+    "age": "23",
+    "gender": "ชาย",
+    "roblox": "PCX_1698",
+    "mic": "มี",
+    "nickname": "King John • [put05954]"
   }
 }
