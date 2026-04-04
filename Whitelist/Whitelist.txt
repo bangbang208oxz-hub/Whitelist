@@ -198,5 +198,13 @@
     "roblox": "James_6363612",
     "mic": "มี",
     "nickname": "Garin outlaw • [tutoring_636]"
+  },
+  "1473994663957364779": {
+    "name_ic": "youppqydh",
+    "age": "18",
+    "gender": "ชาย",
+    "roblox": "youppqydh",
+    "mic": "ไม่มี",
+    "nickname": "youppqydh • [asdasdasdasdacxz_98"
   }
 }
