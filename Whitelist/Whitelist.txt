@@ -7,14 +7,6 @@
     "mic": "มี",
     "nickname": "TestUser • [Original]"
   },
-  "1473994663957364779": {
-    "name_ic": "4khirx",
-    "age": "17",
-    "gender": "ชาย",
-    "roblox": "4khirx",
-    "mic": "มี",
-    "nickname": "4khirx • [4khirx • [Morgan_yy • "
-  },
   "1392877970028232765": {
     "name_ic": "Soda Natsumi",
     "age": "16",
