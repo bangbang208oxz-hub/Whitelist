@@ -183,14 +183,6 @@
     "mic": "มี",
     "nickname": "Garin outlaw • [tutoring_636]"
   },
-  "1146836748681367644": {
-    "name_ic": "Mabel Zephyr",
-    "age": "20",
-    "gender": "female",
-    "roblox": "mmomay2205",
-    "mic": "มี",
-    "nickname": "Mabel Zephyr • [moqsxz_]"
-  },
   "1486964796053258352": {
     "name_ic": "Nve ppoi",
     "age": "17",
