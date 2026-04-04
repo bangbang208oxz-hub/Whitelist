@@ -246,5 +246,13 @@
     "roblox": "SND_MG",
     "mic": "มี",
     "nickname": "Mankeaw Daimod • [noskung]"
+  },
+  "1402974327825236051": {
+    "name_ic": "Zender Wen",
+    "age": "20",
+    "gender": "ชาย",
+    "roblox": "Supalerk_boy",
+    "mic": "มี",
+    "nickname": "Zender Wen • [mr.khnundib]"
   }
 }
