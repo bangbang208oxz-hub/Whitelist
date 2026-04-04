@@ -198,5 +198,13 @@
     "roblox": "HyperDbeta",
     "mic": "มี",
     "nickname": "Zuko • [zukowtf_]"
+  },
+  "1443536635487846411": {
+    "name_ic": "Garin outlaw",
+    "age": "13",
+    "gender": "ชาย",
+    "roblox": "James_6363612",
+    "mic": "มี",
+    "nickname": "Garin outlaw • [tutoring_636]"
   }
 }
