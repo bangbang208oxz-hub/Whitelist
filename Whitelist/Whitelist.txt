@@ -190,5 +190,13 @@
     "roblox": "mmomay2205",
     "mic": "มี",
     "nickname": "Mabel Zephyr • [moqsxz_]"
+  },
+  "1486964796053258352": {
+    "name_ic": "Nve ppoi",
+    "age": "17",
+    "gender": "หญิง",
+    "roblox": "Ramen9505",
+    "mic": "มี",
+    "nickname": "Nve ppoi • [nve0565]"
   }
 }
