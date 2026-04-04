@@ -198,5 +198,13 @@
     "roblox": "Ramen9505",
     "mic": "มี",
     "nickname": "Nve ppoi • [nve0565]"
+  },
+  "1150410341050753124": {
+    "name_ic": "Wisper Sanji",
+    "age": "16",
+    "gender": "ชาย",
+    "roblox": "ICE10_02",
+    "mic": "มี",
+    "nickname": "Wisper Sanji • [rapee_07]"
   }
 }
