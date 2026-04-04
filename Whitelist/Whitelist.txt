@@ -230,5 +230,13 @@
     "roblox": "aata2523",
     "mic": "มี",
     "nickname": "real white • [gfududu]"
+  },
+  "1446824616449277982": {
+    "name_ic": "Sherine Sniper",
+    "age": "15",
+    "gender": "หญิง",
+    "roblox": "Xxiiayezxx",
+    "mic": "มี",
+    "nickname": "Sherine Sniper • [callme_.iris]"
   }
 }
