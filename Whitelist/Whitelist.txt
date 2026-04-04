@@ -182,5 +182,13 @@
     "roblox": "James_6363612",
     "mic": "มี",
     "nickname": "Garin outlaw • [tutoring_636]"
+  },
+  "1146836748681367644": {
+    "name_ic": "Mabel Zephyr",
+    "age": "20",
+    "gender": "female",
+    "roblox": "mmomay2205",
+    "mic": "มี",
+    "nickname": "Mabel Zephyr • [moqsxz_]"
   }
 }
