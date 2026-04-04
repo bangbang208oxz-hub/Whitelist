@@ -205,6 +205,6 @@
     "gender": "ชาย",
     "roblox": "ICE10_02",
     "mic": "มี",
-    "nickname": "Wisper Sanji • [rapee_07]"
+    "nickname": "Wisper Sanji • [Wisper Sanji • ["
   }
 }
