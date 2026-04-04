@@ -15,14 +15,6 @@
     "mic": "มี",
     "nickname": "Soda Natsumi • [soda190253]"
   },
-  "1032085684627980391": {
-    "name_ic": "Edward  Acedemy",
-    "age": "20",
-    "gender": "ชาย",
-    "roblox": "For453534",
-    "mic": "ไม่มี",
-    "nickname": "Edward  Acedemy • [fcbarcelona41"
-  },
   "915106968228741152": {
     "name_ic": "Blue beelte",
     "age": "17",
@@ -78,14 +70,6 @@
     "roblox": "sila_gggjy",
     "mic": "มี",
     "nickname": "Sila  Black • [ggg093354]"
-  },
-  "874257078208843816": {
-    "name_ic": "Mindmint Lissy",
-    "age": "19",
-    "gender": "หญิง",
-    "roblox": "Netnapa_CJ",
-    "mic": "ไม่มี",
-    "nickname": "Mindmint Lissy • [Mindmint Lissy"
   },
   "903277263196418128": {
     "name_ic": "Katie Elf",
@@ -198,13 +182,5 @@
     "roblox": "James_6363612",
     "mic": "มี",
     "nickname": "Garin outlaw • [tutoring_636]"
-  },
-  "992077637046517814": {
-    "name_ic": "DEEDO",
-    "age": "25",
-    "gender": "ชาย",
-    "roblox": "XD77777RR",
-    "mic": "มี",
-    "nickname": "DEEDO • [lotus11aa]"
   }
 }
