@@ -206,5 +206,13 @@
     "roblox": "youppqydh",
     "mic": "ไม่มี",
     "nickname": "youppqydh • [youppqydh • [youppq"
+  },
+  "992077637046517814": {
+    "name_ic": "DEEDO",
+    "age": "25",
+    "gender": "ชาย",
+    "roblox": "XD77777RR",
+    "mic": "มี",
+    "nickname": "DEEDO • [lotus11aa]"
   }
 }
