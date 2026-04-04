@@ -206,5 +206,13 @@
     "roblox": "PCX_1698",
     "mic": "มี",
     "nickname": "King John • [King John • [put059"
+  },
+  "1032085684627980391": {
+    "name_ic": "Edward Acedemy",
+    "age": "19",
+    "gender": "ชาย",
+    "roblox": "For453534",
+    "mic": "มี",
+    "nickname": "Edward Acedemy • [fcbarcelona415"
   }
 }
