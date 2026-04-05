@@ -262,5 +262,13 @@
     "roblox": "aasfdsa355",
     "mic": "มี",
     "nickname": "King Pipo • [King Pipo • [nuchit"
+  },
+  "992077637046517814": {
+    "name_ic": "DEEDOxMILLTR",
+    "age": "25",
+    "gender": "ชาย",
+    "roblox": "XD77777RR",
+    "mic": "มี",
+    "nickname": "DEEDOxMILLTR • [lotus11aa]"
   }
 }
