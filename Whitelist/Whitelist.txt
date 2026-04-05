@@ -366,5 +366,13 @@
     "roblox": "Pultsgaud9442",
     "mic": "มี",
     "nickname": "Pitchy Dawitchy • [tyyytyytytytt"
+  },
+  "1423656067677552660": {
+    "name_ic": "GORNSSTY TYUHDE",
+    "age": "14",
+    "gender": "ชาย",
+    "roblox": "GORN123444",
+    "mic": "มี",
+    "nickname": "GORNSSTY TYUHDE • [gorn0205_8542"
   }
 }
