@@ -270,5 +270,13 @@
     "roblox": "XD77777RR",
     "mic": "มี",
     "nickname": "DEEDOxMILLTR • [lotus11aa]"
+  },
+  "761643052296568863": {
+    "name_ic": "Jaomine Dekdk",
+    "age": "17",
+    "gender": "หญิง",
+    "roblox": "JEyoyo123",
+    "mic": "มี",
+    "nickname": "Jaomine Dekdk • [justtt.jas]"
   }
 }
