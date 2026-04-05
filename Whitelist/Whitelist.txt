@@ -358,5 +358,13 @@
     "roblox": "ejhq75mdpi45",
     "mic": "ไม่มี",
     "nickname": "Stamp Outlaw • [stamp0229]"
+  },
+  "1450670992916480192": {
+    "name_ic": "Pitchy Dawitchy",
+    "age": "13",
+    "gender": "หญิง",
+    "roblox": "Pultsgaud9442",
+    "mic": "มี",
+    "nickname": "Pitchy Dawitchy • [tyyytyytytytt"
   }
 }
