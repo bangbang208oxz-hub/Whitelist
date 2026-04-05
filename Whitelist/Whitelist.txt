@@ -326,5 +326,13 @@
     "roblox": "Luna_Selene112",
     "mic": "มี",
     "nickname": "Jumook  Dissia • [anya__94937]"
+  },
+  "1362017694802776105": {
+    "name_ic": "Shogoun TPIPARER",
+    "age": "15",
+    "gender": "ชาย",
+    "roblox": "YouShopLamz9a",
+    "mic": "มี",
+    "nickname": "Shogoun TPIPARER • [shogun_q]"
   }
 }
