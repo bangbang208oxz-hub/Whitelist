@@ -294,5 +294,13 @@
     "roblox": "Nani199989",
     "mic": "มี",
     "nickname": "Win Replay • [max_sim000]"
+  },
+  "1449712849344663665": {
+    "name_ic": "Ken yunger",
+    "age": "13",
+    "gender": "ชาย",
+    "roblox": "1wlkq6",
+    "mic": "มี",
+    "nickname": "Ken yunger • [lucky_papaya_96449"
   }
 }
