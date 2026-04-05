@@ -286,5 +286,13 @@
     "roblox": "NOPAwERTU",
     "mic": "มี",
     "nickname": "Miru Mack • [bos_xd]"
+  },
+  "1030729677620400139": {
+    "name_ic": "Win Replay",
+    "age": "13",
+    "gender": "ชาย",
+    "roblox": "Nani199989",
+    "mic": "มี",
+    "nickname": "Win Replay • [max_sim000]"
   }
 }
