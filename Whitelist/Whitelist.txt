@@ -398,5 +398,13 @@
     "roblox": "Xlay_29",
     "mic": "มี",
     "nickname": "Axel Cross • [b.06065.]"
+  },
+  "1345294540579536906": {
+    "name_ic": "Zoey Wisteria",
+    "age": "15",
+    "gender": "หญิง",
+    "roblox": "Sofia_Carly2",
+    "mic": "มี",
+    "nickname": "Zoey Wisteria • [faye_gmd]"
   }
 }
