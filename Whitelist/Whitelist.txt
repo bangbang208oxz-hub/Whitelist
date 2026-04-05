@@ -382,5 +382,13 @@
     "roblox": "EXODUS_403",
     "mic": "มี",
     "nickname": "Sang nuea • [jojo1245927]"
+  },
+  "1176943635779031141": {
+    "name_ic": "Ruby Iriss",
+    "age": "10",
+    "gender": "หญิง",
+    "roblox": "Gfdyhdfijg",
+    "mic": "มี",
+    "nickname": "Ruby Iriss • [_rkog]"
   }
 }
