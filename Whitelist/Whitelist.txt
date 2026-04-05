@@ -334,5 +334,13 @@
     "roblox": "YouShopLamz9a",
     "mic": "มี",
     "nickname": "Shogoun TPIPARER • [shogun_q]"
+  },
+  "585849704106164225": {
+    "name_ic": "Sky Alinsip",
+    "age": "18",
+    "gender": "ชาย",
+    "roblox": "Sky_Alinsip",
+    "mic": "มี",
+    "nickname": "Sky Alinsip • [sky_s]"
   }
 }
