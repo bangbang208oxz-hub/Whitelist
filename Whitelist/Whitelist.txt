@@ -374,5 +374,13 @@
     "roblox": "GORN123444",
     "mic": "มี",
     "nickname": "GORNSSTY TYUHDE • [gorn0205_8542"
+  },
+  "1379133328606892093": {
+    "name_ic": "Sang nuea",
+    "age": "24",
+    "gender": "ชาย",
+    "roblox": "EXODUS_403",
+    "mic": "มี",
+    "nickname": "Sang nuea • [jojo1245927]"
   }
 }
