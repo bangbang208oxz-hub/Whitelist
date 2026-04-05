@@ -318,5 +318,13 @@
     "roblox": "toke_ff1",
     "mic": "มี",
     "nickname": "Rex Xenreal • [best255125]"
+  },
+  "1391288410081333271": {
+    "name_ic": "Jumook  Dissia",
+    "age": "22",
+    "gender": "หญิง",
+    "roblox": "Luna_Selene112",
+    "mic": "มี",
+    "nickname": "Jumook  Dissia • [anya__94937]"
   }
 }
