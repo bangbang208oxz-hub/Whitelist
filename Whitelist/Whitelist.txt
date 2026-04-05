@@ -342,5 +342,13 @@
     "roblox": "Sky_Alinsip",
     "mic": "มี",
     "nickname": "Sky Alinsip • [sky_s]"
+  },
+  "1368536713907146839": {
+    "name_ic": "Peest AZAZEL",
+    "age": "15",
+    "gender": "ชาย",
+    "roblox": "zero42780",
+    "mic": "ไม่มี",
+    "nickname": "Peest AZAZEL • [thx_ps5]"
   }
 }
