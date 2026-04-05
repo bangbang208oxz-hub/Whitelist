@@ -302,5 +302,13 @@
     "roblox": "1wlkq6",
     "mic": "มี",
     "nickname": "Ken yunger • [lucky_papaya_96449"
+  },
+  "1483956189497921547": {
+    "name_ic": "Numkhing naka",
+    "age": "20",
+    "gender": "หญิง",
+    "roblox": "Numkhing83",
+    "mic": "มี",
+    "nickname": "Numkhing naka • [mindmint_jub1_8"
   }
 }
