@@ -350,5 +350,13 @@
     "roblox": "zero42780",
     "mic": "ไม่มี",
     "nickname": "Peest AZAZEL • [thx_ps5]"
+  },
+  "1482980541325115535": {
+    "name_ic": "Stamp Outlaw",
+    "age": "15",
+    "gender": "เพศชาย",
+    "roblox": "ejhq75mdpi45",
+    "mic": "ไม่มี",
+    "nickname": "Stamp Outlaw • [stamp0229]"
   }
 }
