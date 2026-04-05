@@ -278,5 +278,13 @@
     "roblox": "JEyoyo123",
     "mic": "มี",
     "nickname": "Jaomine Dekdk • [justtt.jas]"
+  },
+  "928579586567069696": {
+    "name_ic": "Miru Mack",
+    "age": "22",
+    "gender": "ชาย",
+    "roblox": "NOPAwERTU",
+    "mic": "ไม่มี",
+    "nickname": "Miru Mack • [bos_xd]"
   }
 }
