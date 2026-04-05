@@ -310,5 +310,13 @@
     "roblox": "Numkhing83",
     "mic": "มี",
     "nickname": "Numkhing naka • [mindmint_jub1_8"
+  },
+  "1377331719946109038": {
+    "name_ic": "Rex Xenreal",
+    "age": "17",
+    "gender": "ชาย",
+    "roblox": "toke_ff1",
+    "mic": "มี",
+    "nickname": "Rex Xenreal • [best255125]"
   }
 }
