@@ -390,5 +390,13 @@
     "roblox": "Gfdyhdfijg",
     "mic": "มี",
     "nickname": "Ruby Iriss • [_rkog]"
+  },
+  "1474927364751229039": {
+    "name_ic": "Axel Cross",
+    "age": "16",
+    "gender": "ชาย",
+    "roblox": "Xlay_29",
+    "mic": "มี",
+    "nickname": "Axel Cross • [b.06065.]"
   }
 }
