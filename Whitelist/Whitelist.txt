@@ -470,5 +470,13 @@
     "roblox": "Fairypoko143",
     "mic": "ไม่มี",
     "nickname": "Pleng Badporyang • [fairypoko]"
+  },
+  "799121789732651058": {
+    "name_ic": "AZURE LIXA",
+    "age": "18",
+    "gender": "ชาย",
+    "roblox": "Bamboo_HCKt",
+    "mic": "มี",
+    "nickname": "AZURE LIXA • [shogunnls]"
   }
 }
