@@ -414,5 +414,13 @@
     "roblox": "gyrfguted",
     "mic": "มี",
     "nickname": "Diamond Carter • [kingdomlk_.]"
+  },
+  "1284185777248669728": {
+    "name_ic": "Series Korea",
+    "age": "12",
+    "gender": "ขาย",
+    "roblox": "qwsdadefgdgfhf",
+    "mic": "มี",
+    "nickname": "Series Korea • [series777__]"
   }
 }
