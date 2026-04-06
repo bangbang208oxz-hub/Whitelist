@@ -422,5 +422,13 @@
     "roblox": "qwsdadefgdgfhf",
     "mic": "มี",
     "nickname": "Series Korea • [series777__]"
+  },
+  "1466294604537266239": {
+    "name_ic": "Jaysix Typer",
+    "age": "17",
+    "gender": "ชาย",
+    "roblox": "n9xxyz",
+    "mic": "มี",
+    "nickname": "Jaysix Typer • [st4rfe11]"
   }
 }
