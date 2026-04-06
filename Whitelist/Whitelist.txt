@@ -438,5 +438,13 @@
     "roblox": "now_i17",
     "mic": "มี",
     "nickname": "Judy Candy • [now_12.]"
+  },
+  "1235570672504279126": {
+    "name_ic": "Sunsu SornReuan",
+    "age": "20",
+    "gender": "หญิง",
+    "roblox": "Meiji_1116",
+    "mic": "มี",
+    "nickname": "Sunsu SornReuan • [sunsu_00]"
   }
 }
