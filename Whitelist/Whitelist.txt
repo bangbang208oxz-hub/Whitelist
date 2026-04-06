@@ -446,5 +446,13 @@
     "roblox": "Meiji_1116",
     "mic": "มี",
     "nickname": "Sunsu SornReuan • [sunsu_00]"
+  },
+  "1472091552523354263": {
+    "name_ic": "Affan Khongkhwamuang",
+    "age": "14",
+    "gender": "ชาย",
+    "roblox": "yu9mugvyt",
+    "mic": "มี",
+    "nickname": "Affan Khongkhwamuang • [affan667"
   }
 }
