@@ -454,5 +454,13 @@
     "roblox": "yu9mugvyt",
     "mic": "มี",
     "nickname": "Affan Khongkhwamuang • [affan667"
+  },
+  "1205791099147259924": {
+    "name_ic": "Wair Maxville",
+    "age": "19",
+    "gender": "หญิง",
+    "roblox": "Reewa65",
+    "mic": "มี",
+    "nickname": "Wair Maxville • [pixievava_12]"
   }
 }
