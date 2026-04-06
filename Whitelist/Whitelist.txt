@@ -406,5 +406,13 @@
     "roblox": "Sofia_Carly2",
     "mic": "มี",
     "nickname": "Zoey Wisteria • [faye_gmd]"
+  },
+  "1166758529705726048": {
+    "name_ic": "Diamond Carter",
+    "age": "17",
+    "gender": "ชาย",
+    "roblox": "gyrfguted",
+    "mic": "มี",
+    "nickname": "Diamond Carter • [kingdomlk_.]"
   }
 }
