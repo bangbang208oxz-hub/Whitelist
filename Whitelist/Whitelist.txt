@@ -478,5 +478,13 @@
     "roblox": "Bamboo_HCKt",
     "mic": "มี",
     "nickname": "AZURE LIXA • [shogunnls]"
+  },
+  "1047816607935774760": {
+    "name_ic": "Heng Luvpan",
+    "age": "15",
+    "gender": "Boy",
+    "roblox": "Zelynl",
+    "mic": "มี",
+    "nickname": "Heng Luvpan • [Heng Luvpan • [ze"
   }
 }
