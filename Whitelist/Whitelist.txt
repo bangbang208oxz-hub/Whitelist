@@ -494,5 +494,13 @@
     "roblox": "Zapafezo_59276",
     "mic": "มี",
     "nickname": "tyu happy • [boom098809]"
+  },
+  "911084892329246740": {
+    "name_ic": "Baron Course",
+    "age": "20",
+    "gender": "หญิง",
+    "roblox": "Baron_NN85",
+    "mic": "มี",
+    "nickname": "Baron Course • [_apix_yx.06]"
   }
 }
