@@ -462,5 +462,13 @@
     "roblox": "Reewa65",
     "mic": "มี",
     "nickname": "Wair Maxville • [pixievava_12]"
+  },
+  "1274650720251150378": {
+    "name_ic": "Pleng Badporyang",
+    "age": "17",
+    "gender": "หญิง",
+    "roblox": "Fairypoko143",
+    "mic": "ไม่มี",
+    "nickname": "Pleng Badporyang • [fairypoko]"
   }
 }
