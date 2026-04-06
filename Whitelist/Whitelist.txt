@@ -502,5 +502,13 @@
     "roblox": "Baron_NN85",
     "mic": "มี",
     "nickname": "Baron Course • [_apix_yx.06]"
+  },
+  "1422186882430930985": {
+    "name_ic": "Pleng pimlaphat",
+    "age": "17",
+    "gender": "หญิง",
+    "roblox": "pimlaphat289",
+    "mic": "มี",
+    "nickname": "Pleng pimlaphat • [plengpimlapha"
   }
 }
