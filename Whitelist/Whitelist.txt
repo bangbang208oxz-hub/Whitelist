@@ -510,5 +510,13 @@
     "roblox": "pimlaphat289",
     "mic": "มี",
     "nickname": "Pleng pimlaphat • [plengpimlapha"
+  },
+  "1347987592884256788": {
+    "name_ic": "Kenta Kung",
+    "age": "27",
+    "gender": "ชาย",
+    "roblox": "kentakungzz_1",
+    "mic": "มี",
+    "nickname": "Kenta Kung • [Kenta Kung • [⋆⁺₊⋆"
   }
 }
