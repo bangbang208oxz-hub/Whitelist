@@ -430,5 +430,13 @@
     "roblox": "n9xxyz",
     "mic": "มี",
     "nickname": "Jaysix Typer • [st4rfe11]"
+  },
+  "1464824065595277565": {
+    "name_ic": "Judy Candy",
+    "age": "13",
+    "gender": "หญิง",
+    "roblox": "now_i17",
+    "mic": "มี",
+    "nickname": "Judy Candy • [now_12.]"
   }
 }
