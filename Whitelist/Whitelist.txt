@@ -518,5 +518,13 @@
     "roblox": "kentakungzz_1",
     "mic": "มี",
     "nickname": "Kenta Kung • [Kenta Kung • [⋆⁺₊⋆"
+  },
+  "1462813274172162161": {
+    "name_ic": "Aiko Quensia",
+    "age": "19",
+    "gender": "หญิง",
+    "roblox": "M_meen2121",
+    "mic": "มี",
+    "nickname": "Aiko Quensia • [meen_meen2128]"
   }
 }
