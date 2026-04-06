@@ -486,5 +486,13 @@
     "roblox": "Zelynl",
     "mic": "มี",
     "nickname": "Heng Luvpan • [Heng Luvpan • [ze"
+  },
+  "1314426405982834801": {
+    "name_ic": "tyu happy",
+    "age": "15",
+    "gender": "ชาย",
+    "roblox": "Zapafezo_59276",
+    "mic": "มี",
+    "nickname": "tyu happy • [boom098809]"
   }
 }
