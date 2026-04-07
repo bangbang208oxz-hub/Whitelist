@@ -622,5 +622,13 @@
     "roblox": "Rainny3514",
     "mic": "มี",
     "nickname": "Rainny Ramina • [rainny_kub]"
+  },
+  "1428755399141752863": {
+    "name_ic": "Lucia  Miller",
+    "age": "16",
+    "gender": "หญิง",
+    "roblox": "AMYBADGOOD14",
+    "mic": "มี",
+    "nickname": "Lucia  Miller • [poonsungnone]"
   }
 }
