@@ -558,5 +558,13 @@
     "roblox": "Jorobug374",
     "mic": "มี",
     "nickname": "Tutta Maru • [ppxi_12]"
+  },
+  "1280205290528047105": {
+    "name_ic": "Chertam Realsus",
+    "age": "15",
+    "gender": "หญิง",
+    "roblox": "fiacbrgts",
+    "mic": "มี",
+    "nickname": "Chertam Realsus • [naxsi24zb]"
   }
 }
