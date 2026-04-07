@@ -614,5 +614,13 @@
     "roblox": "APHINYA_2010",
     "mic": "มี",
     "nickname": "Maria Anogel • [mook_.02752]"
+  },
+  "886908147615289395": {
+    "name_ic": "Rainny Ramina",
+    "age": "16",
+    "gender": "หญิง",
+    "roblox": "Rainny3514",
+    "mic": "มี",
+    "nickname": "Rainny Ramina • [rainny_kub]"
   }
 }
