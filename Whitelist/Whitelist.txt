@@ -550,5 +550,13 @@
     "roblox": "KObVsn",
     "mic": "มี",
     "nickname": "Patrick Downstar • [watcharapd]"
+  },
+  "1387254788454092840": {
+    "name_ic": "Tutta Maru",
+    "age": "10",
+    "gender": "หญิง",
+    "roblox": "Jorobug374",
+    "mic": "มี",
+    "nickname": "Tutta Maru • [ppxi_12]"
   }
 }
