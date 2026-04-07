@@ -606,5 +606,13 @@
     "roblox": "Kanxidzz_555",
     "mic": "มี",
     "nickname": "Anchan Tomtun • [kanxidzz]"
+  },
+  "1228380034222391396": {
+    "name_ic": "Maria Anogel",
+    "age": "15",
+    "gender": "หญิง",
+    "roblox": "APHINYA_2010",
+    "mic": "มี",
+    "nickname": "Maria Anogel • [mook_.02752]"
   }
 }
