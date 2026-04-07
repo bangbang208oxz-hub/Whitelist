@@ -534,5 +534,13 @@
     "roblox": "tgtgtgtgop",
     "mic": "มี",
     "nickname": "Fxrce Lasiaz • [diwfulltime]"
+  },
+  "1326565025841676368": {
+    "name_ic": "Zara Kingsley",
+    "age": "15",
+    "gender": "หญิง",
+    "roblox": "Yuooo773",
+    "mic": "มี",
+    "nickname": "Zara Kingsley • [gamm489]"
   }
 }
