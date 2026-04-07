@@ -566,5 +566,13 @@
     "roblox": "fiacbrgts",
     "mic": "มี",
     "nickname": "Chertam Realsus • [naxsi24zb]"
+  },
+  "886208575184179210": {
+    "name_ic": "Arlo Merlin",
+    "age": "17",
+    "gender": "หญิง",
+    "roblox": "magaiun",
+    "mic": "มี",
+    "nickname": "Arlo Merlin • [c.chxxmpuu__]"
   }
 }
