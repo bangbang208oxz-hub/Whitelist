@@ -526,5 +526,13 @@
     "roblox": "M_meen2121",
     "mic": "มี",
     "nickname": "Aiko Quensia • [meen_meen2128]"
+  },
+  "891338948725571604": {
+    "name_ic": "Fxrce Lasiaz",
+    "age": "18",
+    "gender": "boy",
+    "roblox": "tgtgtgtgop",
+    "mic": "มี",
+    "nickname": "Fxrce Lasiaz • [diwfulltime]"
   }
 }
