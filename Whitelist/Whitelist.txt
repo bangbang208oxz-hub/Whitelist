@@ -574,5 +574,13 @@
     "roblox": "magaiun",
     "mic": "มี",
     "nickname": "Arlo Merlin • [c.chxxmpuu__]"
+  },
+  "1041262553231261766": {
+    "name_ic": "Muping JubJub",
+    "age": "16",
+    "gender": "หญิง",
+    "roblox": "kozaza29",
+    "mic": "มี",
+    "nickname": "Muping JubJub • [coco08514]"
   }
 }
