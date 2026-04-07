@@ -582,5 +582,13 @@
     "roblox": "kozaza29",
     "mic": "มี",
     "nickname": "Muping JubJub • [coco08514]"
+  },
+  "1088519442234875995": {
+    "name_ic": "bebby dekauan",
+    "age": "15",
+    "gender": "หญิง",
+    "roblox": "baxezx",
+    "mic": "มี",
+    "nickname": "bebby dekauan • [nouaesr]"
   }
 }
