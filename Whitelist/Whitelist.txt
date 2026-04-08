@@ -638,5 +638,13 @@
     "roblox": "realdeniesmf4052",
     "mic": "มี",
     "nickname": "Kenta Xerox • [snowman.th]"
+  },
+  "938777372059111454": {
+    "name_ic": "Thunder Tentachi",
+    "age": "15",
+    "gender": "ชาย",
+    "roblox": "TunwaThailand",
+    "mic": "มี",
+    "nickname": "Thunder Tentachi • [tunwa4892]"
   }
 }
