@@ -630,5 +630,13 @@
     "roblox": "AMYBADGOOD14",
     "mic": "มี",
     "nickname": "Lucia  Miller • [poonsungnone]"
+  },
+  "1340211139862069310": {
+    "name_ic": "Kenta Xerox",
+    "age": "15",
+    "gender": "ชาย",
+    "roblox": "realdeniesmf4052",
+    "mic": "มี",
+    "nickname": "Kenta Xerox • [snowman.th]"
   }
 }
