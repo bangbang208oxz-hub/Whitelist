@@ -670,5 +670,13 @@
     "roblox": "DOG0978XUDI",
     "mic": "มี",
     "nickname": "Prom MLKP • [promak0452]"
+  },
+  "1361553906794102946": {
+    "name_ic": "Tee Vadim",
+    "age": "18",
+    "gender": "ชาย",
+    "roblox": "FgFuza198621",
+    "mic": "มี",
+    "nickname": "Tee Vadim • [kravos46]"
   }
 }
