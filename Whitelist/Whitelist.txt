@@ -646,5 +646,13 @@
     "roblox": "TunwaThailand",
     "mic": "มี",
     "nickname": "Thunder Tentachi • [tunwa4892]"
+  },
+  "1387963097230344202": {
+    "name_ic": "Peter Parker",
+    "age": "18",
+    "gender": "ชาย",
+    "roblox": "wasdioledw5",
+    "mic": "มี",
+    "nickname": "Peter Parker • [meix_meng.]"
   }
 }
