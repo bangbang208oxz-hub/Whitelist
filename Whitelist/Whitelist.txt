@@ -694,5 +694,13 @@
     "roblox": "zdsrug2",
     "mic": "มี",
     "nickname": "Sunny whatelse • [abc_76.]"
+  },
+  "1488111131422621738": {
+    "name_ic": "Arthur​  Sinclair",
+    "age": "25",
+    "gender": "ชาย",
+    "roblox": "1233456u89",
+    "mic": "มี",
+    "nickname": "Arthur​  Sinclair • [rjeasy_]"
   }
 }
