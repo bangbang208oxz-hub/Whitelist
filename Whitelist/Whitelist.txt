@@ -701,6 +701,6 @@
     "gender": "ชาย",
     "roblox": "1233456u89",
     "mic": "มี",
-    "nickname": "Arthur​  Sinclair • [rjeasy_]"
+    "nickname": "Arthur​  Sinclair • [Arthur  Sin"
   }
 }
