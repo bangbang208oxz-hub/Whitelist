@@ -686,5 +686,13 @@
     "roblox": "Chickenvirus1",
     "mic": "มี",
     "nickname": "money Alpha • [zzzuuu____]"
+  },
+  "1430705689185095713": {
+    "name_ic": "Sunny whatelse",
+    "age": "15",
+    "gender": "ชาย",
+    "roblox": "zdsrug2",
+    "mic": "มี",
+    "nickname": "Sunny whatelse • [abc_76.]"
   }
 }
