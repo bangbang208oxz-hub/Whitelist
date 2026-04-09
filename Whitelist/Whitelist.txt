@@ -678,5 +678,13 @@
     "roblox": "FgFuza198621",
     "mic": "มี",
     "nickname": "Tee Vadim • [kravos46]"
+  },
+  "1435583978097737829": {
+    "name_ic": "money Alpha",
+    "age": "20",
+    "gender": "ชาย",
+    "roblox": "Chickenvirus1",
+    "mic": "มี",
+    "nickname": "money Alpha • [zzzuuu____]"
   }
 }
