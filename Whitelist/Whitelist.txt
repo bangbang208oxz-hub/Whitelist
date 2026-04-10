@@ -718,5 +718,13 @@
     "roblox": "Hero_theRipper",
     "mic": "มี",
     "nickname": "Ren Dreadmoor • [_.rento16]"
+  },
+  "1143130176067215420": {
+    "name_ic": "Sensei Acedemy",
+    "age": "14",
+    "gender": "หญิง",
+    "roblox": "calzxsz",
+    "mic": "มี",
+    "nickname": "Sensei Acedemy • [0foru]"
   }
 }
