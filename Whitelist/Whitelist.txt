@@ -710,5 +710,13 @@
     "roblox": "cawsaaw",
     "mic": "มี",
     "nickname": "Monday Reflect • [popp0821]"
+  },
+  "1358052892791279697": {
+    "name_ic": "Ren Dreadmoor",
+    "age": "17",
+    "gender": "ชาย",
+    "roblox": "Hero_theRipper",
+    "mic": "มี",
+    "nickname": "Ren Dreadmoor • [_.rento16]"
   }
 }
