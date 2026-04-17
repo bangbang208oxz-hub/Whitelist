@@ -726,5 +726,13 @@
     "roblox": "calzxsz",
     "mic": "มี",
     "nickname": "Sensei Acedemy • [0foru]"
+  },
+  "1367363945857552444": {
+    "name_ic": "Aham10y1 chambcld",
+    "age": "14",
+    "gender": "ชาย",
+    "roblox": "Aham10y1",
+    "mic": "มี",
+    "nickname": "Aham10y1 chambcld • [dazzling_fa"
   }
 }
