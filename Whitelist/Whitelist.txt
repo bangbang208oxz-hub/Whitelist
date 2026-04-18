@@ -782,5 +782,13 @@
     "roblox": "RealhopeTH",
     "mic": "มี",
     "nickname": "Kaemhom Straightflush • [l3igbab"
+  },
+  "1481904723601920080": {
+    "name_ic": "Gust Godfather",
+    "age": "15",
+    "gender": "ชาย",
+    "roblox": "KaiyangX_49135",
+    "mic": "มี",
+    "nickname": "Gust Godfather • [gustlnwza67891"
   }
 }
