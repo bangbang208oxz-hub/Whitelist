@@ -805,6 +805,6 @@
     "gender": "ชาย",
     "roblox": "MBKai_42960",
     "mic": "มี",
-    "nickname": "Boss boo • [min_12311]"
+    "nickname": "Boss boo • [Boss boo • [min_1231"
   }
 }
