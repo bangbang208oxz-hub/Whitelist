@@ -774,5 +774,13 @@
     "roblox": "nzJHvawFeMs",
     "mic": "มี",
     "nickname": "Frank Abagnale • [aomsin0966]"
+  },
+  "1338476193518850058": {
+    "name_ic": "Kaemhom Straightflush",
+    "age": "20",
+    "gender": "ชาย",
+    "roblox": "RealhopeTH",
+    "mic": "มี",
+    "nickname": "Kaemhom Straightflush • [l3igbab"
   }
 }
