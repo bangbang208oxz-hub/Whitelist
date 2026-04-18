@@ -742,5 +742,13 @@
     "roblox": "SUIOSJD7",
     "mic": "มี",
     "nickname": "GINO RTBY • [ry0597]"
+  },
+  "1262204711642333256": {
+    "name_ic": "Yuna Zensei",
+    "age": "17",
+    "gender": "หญิง",
+    "roblox": "MO_OK720",
+    "mic": "มี",
+    "nickname": "Yuna Zensei • [wirada082133]"
   }
 }
