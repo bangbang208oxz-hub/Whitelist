@@ -750,5 +750,13 @@
     "roblox": "MO_OK720",
     "mic": "มี",
     "nickname": "Yuna Zensei • [wirada082133]"
+  },
+  "1327168042093776987": {
+    "name_ic": "Arthur Gallagher",
+    "age": "19",
+    "gender": "ชาย",
+    "roblox": "Ahrissy_10183",
+    "mic": "มี",
+    "nickname": "Arthur Gallagher • [arthurzzzx]"
   }
 }
