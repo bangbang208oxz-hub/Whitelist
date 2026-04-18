@@ -766,5 +766,13 @@
     "roblox": "Leopard945X",
     "mic": "มี",
     "nickname": "Sunday Triple • [thana_pat19]"
+  },
+  "1211472181154811924": {
+    "name_ic": "Frank Abagnale",
+    "age": "17",
+    "gender": "ชาย",
+    "roblox": "nzJHvawFeMs",
+    "mic": "มี",
+    "nickname": "Frank Abagnale • [aomsin0966]"
   }
 }
