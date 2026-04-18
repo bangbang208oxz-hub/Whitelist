@@ -798,5 +798,13 @@
     "roblox": "Miguel_Lcn",
     "mic": "มี",
     "nickname": "Airi Fluttershy • [rainsayy]"
+  },
+  "1467883577676140605": {
+    "name_ic": "Boss boo",
+    "age": "17",
+    "gender": "ชาย",
+    "roblox": "MBKai_42960",
+    "mic": "มี",
+    "nickname": "Boss boo • [min_12311]"
   }
 }
