@@ -758,5 +758,13 @@
     "roblox": "Ahrissy_10183",
     "mic": "มี",
     "nickname": "Arthur Gallagher • [arthurzzzx]"
+  },
+  "1020139192174514247": {
+    "name_ic": "Sunday Triple",
+    "age": "16",
+    "gender": "ชาย",
+    "roblox": "Leopard945X",
+    "mic": "มี",
+    "nickname": "Sunday Triple • [thana_pat19]"
   }
 }
