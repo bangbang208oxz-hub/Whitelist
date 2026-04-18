@@ -734,5 +734,13 @@
     "roblox": "Aham10y1",
     "mic": "มี",
     "nickname": "Aham10y1 chambcld • [dazzling_fa"
+  },
+  "1492870672077295749": {
+    "name_ic": "GINO RTBY",
+    "age": "18",
+    "gender": "ชาย",
+    "roblox": "SUIOSJD7",
+    "mic": "มี",
+    "nickname": "GINO RTBY • [ry0597]"
   }
 }
