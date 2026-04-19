@@ -814,5 +814,13 @@
     "roblox": "naphxtshop_13",
     "mic": "มี",
     "nickname": "Kamsing Najaeiei • [rozice12]"
+  },
+  "926572212054556692": {
+    "name_ic": "Varen marrischar",
+    "age": "18",
+    "gender": "หญิง",
+    "roblox": "Pearl07e",
+    "mic": "มี",
+    "nickname": "Varen marrischar • [pearl7_e]"
   }
 }
