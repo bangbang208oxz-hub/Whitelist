@@ -830,5 +830,13 @@
     "roblox": "sprin2555",
     "mic": "มี",
     "nickname": "Win FIFTY • [Win FIFTY • [pcezaz"
+  },
+  "962702111601209376": {
+    "name_ic": "Zunny Bellamy",
+    "age": "17",
+    "gender": "หญิง",
+    "roblox": "chumpoo_Th",
+    "mic": "มี",
+    "nickname": "Zunny Bellamy • [c4x3p00]"
   }
 }
