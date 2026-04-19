@@ -806,5 +806,13 @@
     "roblox": "MBKai_42960",
     "mic": "มี",
     "nickname": "Boss boo • [Boss boo • [min_1231"
+  },
+  "1247178744385241120": {
+    "name_ic": "Kamsing Najaeiei",
+    "age": "17",
+    "gender": "ชาย",
+    "roblox": "naphxtshop_13",
+    "mic": "มี",
+    "nickname": "Kamsing Najaeiei • [rozice12]"
   }
 }
