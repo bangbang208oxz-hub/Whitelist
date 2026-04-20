@@ -854,5 +854,13 @@
     "roblox": "Skni0",
     "mic": "มี",
     "nickname": "Tati tomo • [chx_vzp]"
+  },
+  "1378567716277063690": {
+    "name_ic": "Foryou King",
+    "age": "18",
+    "gender": "หญิง",
+    "roblox": "Chathi_2",
+    "mic": "มี",
+    "nickname": "Foryou King • [zeefahh.]"
   }
 }
