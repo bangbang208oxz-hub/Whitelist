@@ -862,5 +862,13 @@
     "roblox": "Chathi_2",
     "mic": "มี",
     "nickname": "Foryou King • [zeefahh.]"
+  },
+  "1316979220702036058": {
+    "name_ic": "samkup Loud",
+    "age": "14",
+    "gender": "ชาย",
+    "roblox": "wum924",
+    "mic": "มี",
+    "nickname": "samkup Loud • [vortex1_1]"
   }
 }
