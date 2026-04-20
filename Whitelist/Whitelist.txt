@@ -846,5 +846,13 @@
     "roblox": "GTPGDS",
     "mic": "มี",
     "nickname": "Luna sky • [phumin_789]"
+  },
+  "1015612543152160808": {
+    "name_ic": "Tati tomo",
+    "age": "20",
+    "gender": "ชาย",
+    "roblox": "Skni0",
+    "mic": "มี",
+    "nickname": "Tati tomo • [chx_vzp]"
   }
 }
