@@ -870,5 +870,13 @@
     "roblox": "wum924",
     "mic": "มี",
     "nickname": "samkup Loud • [vortex1_1]"
+  },
+  "1430613864361234605": {
+    "name_ic": "Very high",
+    "age": "24",
+    "gender": "ชาย",
+    "roblox": "Beeelle562",
+    "mic": "มี",
+    "nickname": "Very high • [seol0926_94571]"
   }
 }
