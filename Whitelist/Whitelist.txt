@@ -838,5 +838,13 @@
     "roblox": "chumpoo_Th",
     "mic": "มี",
     "nickname": "Zunny Bellamy • [c4x3p00]"
+  },
+  "1270983328874631189": {
+    "name_ic": "Luna sky",
+    "age": "14",
+    "gender": "ชาย",
+    "roblox": "GTPGDS",
+    "mic": "มี",
+    "nickname": "Luna sky • [phumin_789]"
   }
 }
