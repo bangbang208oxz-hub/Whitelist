@@ -878,5 +878,13 @@
     "roblox": "Beeelle562",
     "mic": "มี",
     "nickname": "Very high • [seol0926_94571]"
+  },
+  "926817663261474866": {
+    "name_ic": "SOMHOY DoysuInw",
+    "age": "19",
+    "gender": "ชาย",
+    "roblox": "Butter_bread0952",
+    "mic": "มี",
+    "nickname": "SOMHOY DoysuInw • [.frxdxy]"
   }
 }
