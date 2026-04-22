@@ -902,5 +902,13 @@
     "roblox": "sila_gggjy",
     "mic": "มี",
     "nickname": "Sila Black • [sila083019]"
+  },
+  "1032257935713243256": {
+    "name_ic": "RICHA NAORI",
+    "age": "14",
+    "gender": "หญิง",
+    "roblox": "Molkn_06",
+    "mic": "มี",
+    "nickname": "RICHA NAORI • [jubebaimw]"
   }
 }
