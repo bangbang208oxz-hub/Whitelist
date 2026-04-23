@@ -910,13 +910,5 @@
     "roblox": "Molkn_06",
     "mic": "มี",
     "nickname": "RICHA NAORI • [jubebaimw]"
-  },
-  "1473994663957364779": {
-    "name_ic": "KImura_BLACK",
-    "age": "29",
-    "gender": "ชาย",
-    "roblox": "KImura_BLACK",
-    "mic": "มี",
-    "nickname": "KImura_BLACK • [youppqydh • [you"
   }
 }
