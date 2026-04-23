@@ -942,5 +942,13 @@
     "roblox": "papa_tiy147",
     "mic": "มี",
     "nickname": "Bank New • [shado_v15]"
+  },
+  "1376156773219700736": {
+    "name_ic": "Karos Adino",
+    "age": "19",
+    "gender": "ชาย",
+    "roblox": "Brierxxp1963",
+    "mic": "มี",
+    "nickname": "Karos Adino • [suphakin_pizza_15"
   }
 }
