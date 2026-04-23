@@ -950,5 +950,13 @@
     "roblox": "Brierxxp1963",
     "mic": "มี",
     "nickname": "Karos Adino • [suphakin_pizza_15"
+  },
+  "1430074222805389414": {
+    "name_ic": "Acare Elizabeth",
+    "age": "15",
+    "gender": "หญิง",
+    "roblox": "aoiy_u2011",
+    "mic": "มี",
+    "nickname": "Acare Elizabeth • [Acare Charlen"
   }
 }
