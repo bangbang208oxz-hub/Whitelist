@@ -934,5 +934,13 @@
     "roblox": "nameiessnameiess",
     "mic": "มี",
     "nickname": "Ton NSMok • [ton_mok0711]"
+  },
+  "1494627157287239711": {
+    "name_ic": "Bank New",
+    "age": "15",
+    "gender": "ชาย",
+    "roblox": "papa_tiy147",
+    "mic": "มี",
+    "nickname": "Bank New • [shado_v15]"
   }
 }
