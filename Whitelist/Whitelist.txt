@@ -966,5 +966,13 @@
     "roblox": "ra_dar08",
     "mic": "มี",
     "nickname": "Mochi Berry • [radar_55]"
+  },
+  "571630976866713601": {
+    "name_ic": "Jame Misaki",
+    "age": "21",
+    "gender": "ชาย",
+    "roblox": "J_1K9P79",
+    "mic": "มี",
+    "nickname": "Jame Misaki • [s_o_s_l_e_e_p_y]"
   }
 }
