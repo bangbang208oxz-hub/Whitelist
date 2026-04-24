@@ -982,5 +982,13 @@
     "roblox": "Kw_an2024",
     "mic": "มี",
     "nickname": "Kwan Saminla • [kw_an0268]"
+  },
+  "1496412346342440994": {
+    "name_ic": "Lean NightFall",
+    "age": "14",
+    "gender": "ชาย",
+    "roblox": "crimson29704",
+    "mic": "มี",
+    "nickname": "Lean NightFall • [kob00911]"
   }
 }
