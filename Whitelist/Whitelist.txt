@@ -1014,5 +1014,13 @@
     "roblox": "KOKAK027",
     "mic": "มี",
     "nickname": "Todti Neverdie • [Todti Bigboss "
+  },
+  "1104938948830179489": {
+    "name_ic": "Yuta Dragon",
+    "age": "15",
+    "gender": "ชาย",
+    "roblox": "VZy_5dneW",
+    "mic": "มี",
+    "nickname": "Yuta Dragon • [pjgvg]"
   }
 }
