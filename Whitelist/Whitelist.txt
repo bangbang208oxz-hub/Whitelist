@@ -990,5 +990,13 @@
     "roblox": "crimson29704",
     "mic": "มี",
     "nickname": "Lean NightFall • [kob00911]"
+  },
+  "1173573090253484073": {
+    "name_ic": "Sushi kirby",
+    "age": "25",
+    "gender": "หญิง",
+    "roblox": "sak_ura195",
+    "mic": "มี",
+    "nickname": "Sushi kirby • [hello_en1995]"
   }
 }
