@@ -1006,5 +1006,13 @@
     "roblox": "Mon_2257",
     "mic": "มี",
     "nickname": "Mon Thawin • [mon_2257.]"
+  },
+  "1419480764835172383": {
+    "name_ic": "Todti Neverdie",
+    "age": "18",
+    "gender": "ชาย",
+    "roblox": "KOKAK027",
+    "mic": "มี",
+    "nickname": "Todti Neverdie • [Todti Bigboss "
   }
 }
