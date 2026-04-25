@@ -1030,5 +1030,13 @@
     "roblox": "Tammyyy_2",
     "mic": "ไม่มี",
     "nickname": "Diamond Davin • [wp_xy.]"
+  },
+  "1272371038751297600": {
+    "name_ic": "Ivy Wilson",
+    "age": "16",
+    "gender": "หญิง",
+    "roblox": "Mia_56789mia",
+    "mic": "มี",
+    "nickname": "Ivy Wilson • [abc_011.]"
   }
 }
