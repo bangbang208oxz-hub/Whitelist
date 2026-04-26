@@ -1062,5 +1062,13 @@
     "roblox": "bbxgxn",
     "mic": "มี",
     "nickname": "Ardel  marcelo • [aomkod06]"
+  },
+  "1232608077296041994": {
+    "name_ic": "Aunda vovi",
+    "age": "15",
+    "gender": "ชาย",
+    "roblox": "tghlptgn1556",
+    "mic": "มี",
+    "nickname": "Aunda vovi • [aund0698_03177]"
   }
 }
