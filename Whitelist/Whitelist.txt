@@ -1070,5 +1070,13 @@
     "roblox": "tghlptgn1556",
     "mic": "มี",
     "nickname": "Aunda vovi • [aund0698_03177]"
+  },
+  "1448531281511190578": {
+    "name_ic": "Sora  Zeus",
+    "age": "14",
+    "gender": "หญิง",
+    "roblox": "Sora24931",
+    "mic": "มี",
+    "nickname": "Sora  Zeus • [sora02573]"
   }
 }
