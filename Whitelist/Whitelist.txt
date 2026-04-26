@@ -1054,5 +1054,13 @@
     "roblox": "sugar_bun2212",
     "mic": "มี",
     "nickname": "Piploy Iris • [piiplo.yy]"
+  },
+  "1489977283035922472": {
+    "name_ic": "Ardel  marcelo",
+    "age": "19",
+    "gender": "หญิง",
+    "roblox": "bbxgxn",
+    "mic": "มี",
+    "nickname": "Ardel  marcelo • [aomkod06]"
   }
 }
