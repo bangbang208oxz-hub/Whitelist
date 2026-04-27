@@ -1078,5 +1078,13 @@
     "roblox": "Sora24931",
     "mic": "มี",
     "nickname": "Sora  Zeus • [sora02573]"
+  },
+  "1480954251319705712": {
+    "name_ic": "JAEMIN ZEUS",
+    "age": "16",
+    "gender": "หญิง",
+    "roblox": "jaemin55551",
+    "mic": "มี",
+    "nickname": "JAEMIN ZEUS • [ecchmin0929]"
   }
 }
