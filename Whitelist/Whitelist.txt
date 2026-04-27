@@ -1094,5 +1094,13 @@
     "roblox": "friedgarlic_2005",
     "mic": "มี",
     "nickname": "Nelly Delacroix • [Nelly Delacro"
+  },
+  "1227969792112201728": {
+    "name_ic": "Wine Nakud",
+    "age": "11",
+    "gender": "หญิง",
+    "roblox": "Evangeline_348",
+    "mic": "มี",
+    "nickname": "Wine Nakud • [72_.72]"
   }
 }
