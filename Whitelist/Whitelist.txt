@@ -1086,5 +1086,13 @@
     "roblox": "jaemin55551",
     "mic": "มี",
     "nickname": "JAEMIN ZEUS • [ecchmin0929]"
+  },
+  "1322228038964088853": {
+    "name_ic": "Nelly Delacroix",
+    "age": "20",
+    "gender": "หญิง",
+    "roblox": "friedgarlic_2005",
+    "mic": "มี",
+    "nickname": "Nelly Delacroix • [Nelly Delacro"
   }
 }
