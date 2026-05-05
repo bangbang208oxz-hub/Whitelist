@@ -1126,5 +1126,13 @@
     "roblox": "pond_tebow",
     "mic": "มี",
     "nickname": "pond tebow • [pond_tebow.]"
+  },
+  "1439832961699676211": {
+    "name_ic": "Kanoma Biond",
+    "age": "16",
+    "gender": "ชายยย",
+    "roblox": "hhiuuy789hh",
+    "mic": "มี",
+    "nickname": "Kanoma Biond • [thnmmko]"
   }
 }
