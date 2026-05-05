@@ -1110,5 +1110,13 @@
     "roblox": "Punn8yy",
     "mic": "ไม่มี",
     "nickname": "Boss NeymarJR • [bossego888]"
+  },
+  "1423617850911756289": {
+    "name_ic": "Care sia",
+    "age": "15",
+    "gender": "หญิง",
+    "roblox": "xcox_c",
+    "mic": "มี",
+    "nickname": "Care sia • [faeung_.]"
   }
 }
