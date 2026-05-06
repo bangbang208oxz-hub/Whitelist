@@ -1142,5 +1142,13 @@
     "roblox": "bowli700",
     "mic": "มี",
     "nickname": "Lucky UziFreeFire • [zealous_pap"
+  },
+  "1342572011108564992": {
+    "name_ic": "Pipo Mary",
+    "age": "14",
+    "gender": "ชาย",
+    "roblox": "tink_2554",
+    "mic": "มี",
+    "nickname": "Pipo Mary • [nathchay0036_61574]"
   }
 }
