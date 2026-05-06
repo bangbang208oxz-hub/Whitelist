@@ -1182,5 +1182,13 @@
     "roblox": "pluk_DG",
     "mic": "มี",
     "nickname": "Wave HUENKRAM • [Wave HUENKRAM •"
+  },
+  "1457228230984470701": {
+    "name_ic": "VIKTOR LNDX",
+    "age": "35",
+    "gender": "ชาย",
+    "roblox": "OPOR54321222",
+    "mic": "มี",
+    "nickname": "VIKTOR LNDX • [obe_dcm_mm]"
   }
 }
