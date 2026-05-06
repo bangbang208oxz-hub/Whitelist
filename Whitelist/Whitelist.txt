@@ -1134,5 +1134,13 @@
     "roblox": "hhiuuy789hh",
     "mic": "มี",
     "nickname": "Kanoma Biond • [thnmmko]"
+  },
+  "1472603277685424140": {
+    "name_ic": "Lucky UziFreeFire",
+    "age": "22",
+    "gender": "ชาย",
+    "roblox": "bowli700",
+    "mic": "มี",
+    "nickname": "Lucky UziFreeFire • [zealous_pap"
   }
 }
