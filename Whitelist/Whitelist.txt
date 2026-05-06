@@ -1166,5 +1166,13 @@
     "roblox": "qlwr_27",
     "mic": "มี",
     "nickname": "Playyer garden • [pzlq_]"
+  },
+  "1456310055560417377": {
+    "name_ic": "Teerak Iris",
+    "age": "16",
+    "gender": "Women",
+    "roblox": "Sugar_bun2212",
+    "mic": "มี",
+    "nickname": "Teerak Iris • [zazee.uy]"
   }
 }
