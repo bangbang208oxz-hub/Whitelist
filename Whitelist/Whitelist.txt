@@ -1174,5 +1174,13 @@
     "roblox": "Sugar_bun2212",
     "mic": "มี",
     "nickname": "Teerak Iris • [zazee.uy]"
+  },
+  "1491432842671030404": {
+    "name_ic": "Wave HUENKRAM",
+    "age": "16",
+    "gender": "ชาย",
+    "roblox": "pluk_DG",
+    "mic": "มี",
+    "nickname": "Wave HUENKRAM • [Wave HUENKRAM •"
   }
 }
