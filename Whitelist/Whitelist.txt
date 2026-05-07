@@ -1190,5 +1190,13 @@
     "roblox": "OPOR54321222",
     "mic": "มี",
     "nickname": "VIKTOR LNDX • [obe_dcm_mm]"
+  },
+  "1452036529320104123": {
+    "name_ic": "New open",
+    "age": "13",
+    "gender": "ชาย",
+    "roblox": "Newyear888na",
+    "mic": "มี",
+    "nickname": "New open • [boatandnewyear]"
   }
 }
