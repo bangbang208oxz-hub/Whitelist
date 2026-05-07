@@ -1198,5 +1198,13 @@
     "roblox": "Newyear888na",
     "mic": "มี",
     "nickname": "New open • [boatandnewyear]"
+  },
+  "1496738884820799539": {
+    "name_ic": "Arlu Thekiller",
+    "age": "12",
+    "gender": "ชาย",
+    "roblox": "Oillyjiuu",
+    "mic": "มี",
+    "nickname": "Arlu Thekiller • [deha07376]"
   }
 }
