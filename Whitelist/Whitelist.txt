@@ -1238,5 +1238,13 @@
     "roblox": "Firk2325t",
     "mic": "มี",
     "nickname": "Mickey Lafa • [Mickey Lafa • [lo"
+  },
+  "1485827721660731472": {
+    "name_ic": "Sosa Icecube",
+    "age": "15",
+    "gender": "ชาย",
+    "roblox": "ISHOWT0T",
+    "mic": "มี",
+    "nickname": "Sosa Icecube • [sosa_dontlike]"
   }
 }
