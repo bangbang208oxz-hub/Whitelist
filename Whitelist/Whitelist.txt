@@ -1222,5 +1222,13 @@
     "roblox": "palmmee030152",
     "mic": "มี",
     "nickname": "Phallo SongRak • [palmmeeeee]"
+  },
+  "1081730734399688736": {
+    "name_ic": "Siza News",
+    "age": "19",
+    "gender": "ชาย",
+    "roblox": "Ness2552T",
+    "mic": "มี",
+    "nickname": "Siza News • [Siza News • [pum090"
   }
 }
