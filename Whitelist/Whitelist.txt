@@ -1230,5 +1230,13 @@
     "roblox": "Ness2552T",
     "mic": "มี",
     "nickname": "Siza News • [Siza News • [pum090"
+  },
+  "1238721926965493830": {
+    "name_ic": "Mickey Lafa",
+    "age": "19",
+    "gender": "ชาย",
+    "roblox": "Firk2325t",
+    "mic": "มี",
+    "nickname": "Mickey Lafa • [Mickey Lafa • [lo"
   }
 }
