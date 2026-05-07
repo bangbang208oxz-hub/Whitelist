@@ -1206,5 +1206,13 @@
     "roblox": "Oillyjiuu",
     "mic": "มี",
     "nickname": "Arlu Thekiller • [deha07376]"
+  },
+  "1388852985672634519": {
+    "name_ic": "Geli Mini",
+    "age": "15",
+    "gender": "หญิง",
+    "roblox": "ChazaMonZa",
+    "mic": "มี",
+    "nickname": "Geli Mini • [namcha1205]"
   }
 }
