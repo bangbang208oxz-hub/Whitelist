@@ -1246,5 +1246,13 @@
     "roblox": "ISHOWT0T",
     "mic": "มี",
     "nickname": "Sosa Icecube • [sosa_dontlike]"
+  },
+  "1401088747025731706": {
+    "name_ic": "Sid ESX",
+    "age": "12",
+    "gender": "ชาย",
+    "roblox": "GPS4910",
+    "mic": "มี",
+    "nickname": "Sid ESX • [veeok]"
   }
 }
