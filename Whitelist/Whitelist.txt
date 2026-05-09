@@ -1262,5 +1262,13 @@
     "roblox": "Gayanleza3626",
     "mic": "ไม่มี",
     "nickname": "Rafael Inda • [langa30528]"
+  },
+  "1407018306803597413": {
+    "name_ic": "Jack Valentine",
+    "age": "18",
+    "gender": "ชาย",
+    "roblox": "GNUGNU169",
+    "mic": "มี",
+    "nickname": "Jack Valentine • [the_cutest1]"
   }
 }
