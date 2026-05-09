@@ -1270,5 +1270,13 @@
     "roblox": "GNUGNU169",
     "mic": "มี",
     "nickname": "Jack Valentine • [the_cutest1]"
+  },
+  "1295008452287926303": {
+    "name_ic": "Wittaya  Zazz",
+    "age": "20",
+    "gender": "ชาย",
+    "roblox": "Wittaya_Zazz",
+    "mic": "มี",
+    "nickname": "Wittaya  Zazz • [wittaya_six]"
   }
 }
