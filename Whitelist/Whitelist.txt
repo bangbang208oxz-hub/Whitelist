@@ -1254,5 +1254,13 @@
     "roblox": "GPS4910",
     "mic": "มี",
     "nickname": "Sid ESX • [veeok]"
+  },
+  "1486764221638115450": {
+    "name_ic": "Rafael Inda",
+    "age": "17",
+    "gender": "ชาย",
+    "roblox": "Gayanleza3626",
+    "mic": "ไม่มี",
+    "nickname": "Rafael Inda • [langa30528]"
   }
 }
