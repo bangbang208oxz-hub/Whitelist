@@ -1294,5 +1294,13 @@
     "roblox": "DemonDavidFNay",
     "mic": "มี",
     "nickname": "Valenz Aeris • [username_233]"
+  },
+  "1424784993086996641": {
+    "name_ic": "Coldwind Sekiryuu",
+    "age": "17",
+    "gender": "ชาย",
+    "roblox": "MMnoLdV31_4462",
+    "mic": "มี",
+    "nickname": "Coldwind Sekiryuu • [ning01005]"
   }
 }
