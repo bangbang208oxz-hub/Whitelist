@@ -1302,5 +1302,13 @@
     "roblox": "MMnoLdV31_4462",
     "mic": "มี",
     "nickname": "Coldwind Sekiryuu • [ning01005]"
+  },
+  "864646673668767754": {
+    "name_ic": "Kiyo Kumar",
+    "age": "18",
+    "gender": "ชาย",
+    "roblox": "A5N07F",
+    "mic": "มี",
+    "nickname": "Kiyo Kumar • [akemi.kenji]"
   }
 }
