@@ -1310,5 +1310,13 @@
     "roblox": "A5N07F",
     "mic": "มี",
     "nickname": "Kiyo Kumar • [akemi.kenji]"
+  },
+  "1500057476740153444": {
+    "name_ic": "mon mg",
+    "age": "17",
+    "gender": "ชาย",
+    "roblox": "Mon34p2",
+    "rules": "1. ห้ามประชาชนใช้โปรบินในประเทศ",
+    "nickname": "mon mg"
   }
 }
