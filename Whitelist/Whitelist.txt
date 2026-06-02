@@ -1318,5 +1318,13 @@
     "roblox": "Mon34p2",
     "rules": "1. ห้ามประชาชนใช้โปรบินในประเทศ",
     "nickname": "mon mg"
+  },
+  "1472467517216919725": {
+    "name_ic": "TFAVZXBC9554  Tkk",
+    "age": "14",
+    "gender": "ชาย",
+    "roblox": "TFAVZXBC9554",
+    "rules": "ไม่เรื้อนไม่ตีมั่ว",
+    "nickname": "TFAVZXBC9554  Tkk"
   }
 }
