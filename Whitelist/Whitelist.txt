@@ -1326,5 +1326,13 @@
     "roblox": "TFAVZXBC9554",
     "rules": "ไม่เรื้อนไม่ตีมั่ว",
     "nickname": "TFAVZXBC9554  Tkk"
+  },
+  "1448332186225741875": {
+    "name_ic": "Kiss Lodi",
+    "age": "18",
+    "gender": "Boy",
+    "roblox": "dynamite1847",
+    "rules": "ไม่เรื้อน",
+    "nickname": "Kiss Lodi"
   }
 }
