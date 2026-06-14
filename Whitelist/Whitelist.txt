@@ -1334,5 +1334,13 @@
     "roblox": "dynamite1847",
     "rules": "ไม่เรื้อน",
     "nickname": "Kiss Lodi"
+  },
+  "974228743730118656": {
+    "name_ic": "Marin Chiya",
+    "age": "17",
+    "gender": "หญิง",
+    "roblox": "zjgkhp",
+    "rules": "ห้ามทำร้ายเจ้าหน้าที่",
+    "nickname": "Marin Chiya"
   }
 }
